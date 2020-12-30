@@ -1,6 +1,6 @@
-### I can wire anything directly into anything
+<img align="right" src="https://gist.github.com/jareklupinski/0a104d43e60b2030f29be2bd288fd9b2/raw/addb86deaa11a41746b18c5c00103077d965939b/professor.gif" />
 
-![https://gist.github.com/jareklupinski/0a104d43e60b2030f29be2bd288fd9b2/raw/addb86deaa11a41746b18c5c00103077d965939b/professor.gif](https://gist.github.com/jareklupinski/0a104d43e60b2030f29be2bd288fd9b2/raw/addb86deaa11a41746b18c5c00103077d965939b/professor.gif)
+### I can wire anything directly into anything
 
 To accomplish this in the past I have used:
 - Go
