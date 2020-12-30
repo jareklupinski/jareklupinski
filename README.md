@@ -1,16 +1,22 @@
-### Hi there 👋
+I can wire anything directly into anything.
 
-<!--
-**jareklupinski/jareklupinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![https://gist.github.com/jareklupinski/0a104d43e60b2030f29be2bd288fd9b2/raw/addb86deaa11a41746b18c5c00103077d965939b/professor.gif](https://gist.github.com/jareklupinski/0a104d43e60b2030f29be2bd288fd9b2/raw/addb86deaa11a41746b18c5c00103077d965939b/professor.gif)
 
-Here are some ideas to get you started:
+To accomplish this in the past I have used:
+- Go
+- Python
+- C/++
+- Assembly
+- Copper Wire
+- Optical Fiber
+- Wireless (Radio)
+- Bash Scripts
+- App Engine / Elastic Beanstalk
+- Cloud Functions / Lambda
+- Heroku
+- Microcontrollers
+- FPGAs
+- SAP Connectors
+- EEG Probes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you need something wired up to something else, let's chat and see what would be the cheapest, fastest, and most reliable way to get it done!
