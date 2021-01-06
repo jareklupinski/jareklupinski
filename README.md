@@ -19,3 +19,5 @@ To accomplish this in the past I have used:
 - EEG Probes
 
 If you need something wired up to something else, let's chat and see what would be the cheapest, fastest, and most reliable way to get it done!
+
+All my work is Unlicensed in following the principles of Benjamin Franklin, <a href="https://www.pbs.org/benfranklin/l3_inquiring_little.html">who never sought patents and copyrights</a>, believing that "As we benefit from the inventions of others, we should be glad to share our own... freely and gladly."
