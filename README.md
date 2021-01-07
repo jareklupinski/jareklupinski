@@ -20,4 +20,4 @@ Tools I have used for wiring, always looking to add more to the list!
 - SAP Connectors
 - EEG Probes
 
-All my Public work is Unlicensed in following the principles of Benjamin Franklin, <a href="https://www.pbs.org/benfranklin/l3_inquiring_little.html">who never sought patents and copyrights</a>, believing that "As we benefit from the inventions of others, we should be glad to share our own... freely and gladly."
+All my Public work is Unlicensed in following the principles of Benjamin Franklin, <a href="https://www.fi.edu/benjamin-franklin/inventions">who never sought patents and copyrights</a>, believing "That, as we enjoy great advantages from the inventions of others, we should be glad of an opportunity to serve others by any invention of ours; and this we should do freely and generously."
