@@ -1,7 +1,9 @@
-<img align="center" src="https://gist.githubusercontent.com/jareklupinski/0a104d43e60b2030f29be2bd288fd9b2/raw/12a53b5ccdf96b47f93f91d402571b81031a3e5a/professor.gif" />
+<p align="center">
+<img src="https://gist.githubusercontent.com/jareklupinski/0a104d43e60b2030f29be2bd288fd9b2/raw/12a53b5ccdf96b47f93f91d402571b81031a3e5a/professor.gif" />
+</p>
 
 
-To accomplish this in the past I have used:
+Tools I have used for wiring, always looking to add more to the list!
 - Go
 - Python
 - C/++
@@ -18,6 +20,4 @@ To accomplish this in the past I have used:
 - SAP Connectors
 - EEG Probes
 
-If you need something wired up to something else, let's chat and see what would be the cheapest, fastest, and most reliable way to get it done!
-
-All my work is Unlicensed in following the principles of Benjamin Franklin, <a href="https://www.pbs.org/benfranklin/l3_inquiring_little.html">who never sought patents and copyrights</a>, believing that "As we benefit from the inventions of others, we should be glad to share our own... freely and gladly."
+All my Public work is Unlicensed in following the principles of Benjamin Franklin, <a href="https://www.pbs.org/benfranklin/l3_inquiring_little.html">who never sought patents and copyrights</a>, believing that "As we benefit from the inventions of others, we should be glad to share our own... freely and gladly."
