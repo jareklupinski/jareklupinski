@@ -4,17 +4,16 @@
 
 
 Tools I have used for wiring, always looking to add more to the list!
-- Go
-- Python
+- Go (Gin)
+- Python (Django)
 - C/++
 - Assembly
+- Bash Scripts
+- App Engine / Elastic Beanstalk / Heroku
+- Cloud Functions / Lambda
 - Copper Wire
 - Optical Fiber
-- Wireless (Radio)
-- Bash Scripts
-- App Engine / Elastic Beanstalk
-- Cloud Functions / Lambda
-- Heroku
+- Radio
 - Microcontrollers
 - FPGAs
 - SAP Connectors
