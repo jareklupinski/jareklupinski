@@ -1,20 +1,12 @@
+<h2>
+  About Me
+</h2>
+
 <p align="center">
 <img src="https://gist.githubusercontent.com/jareklupinski/0a104d43e60b2030f29be2bd288fd9b2/raw/12a53b5ccdf96b47f93f91d402571b81031a3e5a/professor.gif" />
 </p>
 
-- [x] Go ( Gin )
-- [x] Python ( Django )
-- [x] C ( ++ )
-- [x] Assembly
-- [x] Bash Scripts
-- [x] SAP Connectors
-- [x] App Engine ( Elastic Beanstalk, Heroku )
-- [x] Cloud Functions ( Lambda )
-- [x] Copper Wire 
-- [x] Optical Fiber 
-- [x] Radio
-- [x] Microcontrollers 
-- [x] FPGAs
-- [x] EEG Probes
-
-All my Public work is Unlicensed in following the principles of Benjamin Franklin, <a href="https://www.fi.edu/benjamin-franklin/inventions">who never sought patents and copyrights</a>, believing "That, as we enjoy great advantages from the inventions of others, we should be glad of an opportunity to serve others by any invention of ours; and this we should do freely and generously."
+The best things in life are free.
+My code is free.
+Therefore my code is the best.
+(thanks notepad++)
